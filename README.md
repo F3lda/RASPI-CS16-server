@@ -1,6 +1,8 @@
 # RASPI-CS16-server
 Run Counter-Strike 1.6 server on Raspberry Pi
 
+### !!! UPDATED INFO: See issue [https://github.com/F3lda/RASPI-CS16-server/issues/1] !!!
+
 ## Installation
 1. Install **Pi-Apps** on Raspberry Pi
 2. From Pi-Apps install **Box86** and **Wine**
